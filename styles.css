@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    color: #bbe1fa;
+    background-color: #1b262c;
+    font-size: 1.2em;
+}
+
+.form{
+    background-color: black;
+    border-radius: 15px;
+    border: 1px solid blue;
+    margin: 25px;
+    padding: 10px;
+    color:blanchedalmond;
+}
+
+.form-group{
+    margin:10px;
+}
+
+table{
+    border-spacing:3px;
+}
+
+table, th, td{
+    border:1px solid black;
+}
+
+td{
+    padding: 5px 15px;
+}
+
+h1,form{
+    margin:20px;
+}
+
+a{
+    text-decoration: none;
+    color: #bbe1fa;
+}
+
+button{
+    width: 80px;
+    margin-top:15px;
+    align-self: flex-end;
+}
